@@ -1,4 +1,4 @@
-# Sleep Language Compiler
+# ZZZleep Language Compiler
 
 This repository contains a small compiler front-end for a toy language nicknamed "Sleep Language". The project performs lexical analysis (tokenization), parsing into an AST, basic semantic analysis (type checking, symbol/function tables), and includes simple visualization and a Streamlit GUI wrapper.
 
