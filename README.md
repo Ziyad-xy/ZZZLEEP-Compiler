@@ -71,7 +71,3 @@ Use `examplescanner2.txt` as a starting point. The parser and analyzer will repo
 - Add an AST-to-bytecode or AST-to-source transpiler to generate output code.
 - Improve error messages to include token context and source excerpts.
 - Add unit tests for lexer, parser, and semantic analyzer.
-
----
-
-If you'd like, I can also create a `requirements.txt` (for `streamlit`), add a runnable example program into `examplescanner2.txt`, or open the Streamlit GUI to verify the integration.
