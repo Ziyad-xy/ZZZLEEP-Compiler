@@ -1,0 +1,9 @@
+dream add(hush a, hush b) {
+    hush result = a + b;
+    awaken result;
+}
+
+rest {
+  hush total = add(3, 4);
+    bed(total);
+}
